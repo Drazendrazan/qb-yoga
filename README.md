@@ -5,6 +5,7 @@ Extensive config allows for heavy customization without having to delve into the
 **Requirements**
 
 qb-core
+
 qb-progressbar (can be toggled off)
 
 **Installation**
